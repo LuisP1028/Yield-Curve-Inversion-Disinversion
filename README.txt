@@ -1,3 +1,4 @@
+Grab your FRED API key. 
 Create a .bat file and include paths to your 
 python.exe directory (to run this headless)
 and the path to the directory where you saved 
