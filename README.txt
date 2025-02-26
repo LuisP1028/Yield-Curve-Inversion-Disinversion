@@ -6,3 +6,7 @@ the script.
 It should look like this: 
 
 "C:\Path\To\anaconda3\pythonw.exe" "C:\Path\To\Script\Directory\yieldcurves.py"
+
+Then, set up a task scheduler.
+Boom.
+Who needs Bloomberg anyway
